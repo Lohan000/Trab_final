@@ -12,7 +12,7 @@
 
 ## Como entrar no portal
 
-Se vai entrar pelo o link que vou passar, depois de se vai se cadastrar e clicar no inicio que já vai ter o botão explorar séries ou filmes em baixo, ou se clica no próprio botão séries para olhar as séries que se quer!
+Se vai entrar pelo o link que vou passar, depois de se vai se cadastrar(se tu quiser, não é um cadastro real e não guarda codigos) e clicar no inicio que já vai ter o botão explorar séries ou filmes em baixo, ou se clica no próprio botão séries para olhar as séries que se quer!
 
 # As Branchs
 ## Main
